@@ -9,15 +9,12 @@
 ---
 
 ### 🎯 About Me
-I am a geophysics and computational seismology enthusiast, combining wave physics with modern computational tools. I received an MSc in Geophysics from King Fahd University of Petroleum and Minerals (KFUPM). My area of interest are in wave propagation, theoretical seismology, seismic data processing/analysis, imaging, and inversion, and numerical modelling
+I am a geophysics and computational seismology enthusiast, combining wave physics with modern computational tools. I received an MSc in Geophysics from King Fahd University of Petroleum and Minerals (KFUPM). My area of interest are in wave propagation, theoretical seismology, seismic data processing/analysis, imaging, and inversion, and numerical modelling. 
 
 
 currently completing my academic program (expected October 2026) while actively building and maintaining open-source software for the geophysical community.
 
-* **🔭 What I'm working on:** Developing and documenting **PyFWI**, an open-source package for seismic modeling and time-lapse Full-Waveform Inversion (FWI).
-* **🌱 Currently exploring:** Classical solutions in Theoretical Seismology and the time-domain complex-valued wave equation.
-* **⚡ Fun fact:** I leverage both Python and Julia to tackle complex dispersion and attenuation analysis.
-* **📫 Reach me at:** oyekan.geophysics@gmail.com | [hoyekan.github.io](https://hoyekan.github.io)
+
 
 ---
 
@@ -44,9 +41,3 @@ currently completing my academic program (expected October 2026) while actively 
 
 ---
 
-### 📌 Featured Repositories
-* **PyFWI:** Open-source Python package for robust seismic modeling and FWI.
-* **GEOP591-Theoretical-Seismology:** Detailed derivations of classical solutions in theoretical seismology.
-* **Dispersion and Attenuation of Love Waves:** Analysis of wave behavior in isotropic viscoelastic media using Jupyter Notebooks.
-
-* 
