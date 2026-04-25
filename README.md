@@ -9,7 +9,7 @@
 ---
 
 ### 🎯 About Me
-I am a geophysics and computational seismology enthusiast, combining wave physics with modern computational tools. I received an MSc in Geophysics from King Fahd University of Petroleum and Minerals (KFUPM). My area of interest are in wave propagation, theoretical seismology, seismic data processing/analysis, imaging, and inversion, and numerical modelling. I am currently exploring Ai and ML application to exploration seismology, particularly in seismic modelling and inversion.
+I am a geophysics and computational seismology enthusiast, combining wave physics with modern computational tools. I received my MSc degree in Geophysics from King Fahd University of Petroleum and Minerals (KFUPM) in December, 2024. My area of interest are in wave propagation, theoretical seismology, seismic data processing/analysis, imaging, and inversion, and numerical modelling. I am currently exploring Ai and ML application to exploration seismology, particularly in seismic modelling and inversion.
 
 
 ---
